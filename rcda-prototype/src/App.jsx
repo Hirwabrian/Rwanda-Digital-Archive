@@ -6,7 +6,7 @@ import {
   Navigate,
 } from "react-router-dom";
 import { AuthProvider } from "./context/AuthContext";
-import ProtectedRoute from "./components/ProtectedRoute";
+import ProtectedRoute from "./Components/ProtectedRoute";
 import LandingPage from "./pages/LandingPage";
 import HomePage from "./pages/HomePage";
 import ArtistHomepage from "./components/ArtistHomepage";
